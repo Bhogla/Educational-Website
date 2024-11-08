@@ -1,4 +1,5 @@
 **Educational Website**
+
 This educational website provides online resources, information, and interactive tools to facilitate learning, teaching, and academic development. Key features and functionalities include:
 
 Informational Content:
@@ -66,10 +67,12 @@ Educational websites cater to various learning styles, needs, and goals, includi
 •	Distance learning
 
 main page:
+![Screenshot 2024-11-08 at 11 27 03 AM](https://github.com/user-attachments/assets/40115e46-b94c-4054-8056-c3d9c9367b06)
+
  
 
 Destination Page:
-
+![Screenshot 2024-11-08 at 11 26 55 AM](https://github.com/user-attachments/assets/12dc2cea-0b6f-40a5-b053-94d0b124dd0d)
 
  
 
@@ -81,7 +84,3 @@ Built With:
 •	Jquery - For scripts
 
 Author -Siddharth Bhogla
-
-
-
-![image](https://github.com/user-attachments/assets/9dfebebd-8701-4d38-b615-3aaf7aee6400)
