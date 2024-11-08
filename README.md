@@ -1,8 +1,8 @@
-**Educational Website**
+#Educational Website
 
 This educational website provides online resources, information, and interactive tools to facilitate learning, teaching, and academic development. Key features and functionalities include:
 
-Informational Content:
+**Informational Content:**
 
 •	Course descriptions and syllabus
 •	Educational articles and blog posts
@@ -10,7 +10,7 @@ Informational Content:
 •	Study guides and tutorials
 •	Educational news and updates
 
-Learning Resources:
+**Learning Resources:**
 
 •	E-books, audiobooks, and digital libraries
 •	Video lectures and tutorials
@@ -18,7 +18,7 @@ Learning Resources:
 •	Quizzes, assessments, and testing tools
 •	Online courses and certification programs
 
-Community and Collaboration:
+**Community and Collaboration:**
 
 •	Discussion forums and chat rooms
 •	Social media groups and networks
@@ -26,7 +26,7 @@ Community and Collaboration:
 •	Peer review and feedback systems
 •	Mentorship programs
 
-Student Services:
+**Student Services:**
 
 •	Admission and enrollment processes
 •	Course registration and scheduling
@@ -34,7 +34,7 @@ Student Services:
 •	Financial aid and scholarship information
 •	Career counseling and job placement
 
-Teacher and Administrator Tools:
+**Teacher and Administrator Tools:**
 
 •	Lesson planning and curriculum development
 •	Grade booking and attendance tracking
@@ -42,7 +42,7 @@ Teacher and Administrator Tools:
 •	Communication and notification systems
 •	Administrative task management
 
-Technical Features:
+**Technical Features:**
 
 •	Responsive design (mobile-friendly)
 •	Secure authentication and authorization
@@ -50,7 +50,7 @@ Technical Features:
 •	Integration with Learning Management Systems (LMS)
 •	Accessibility features (e.g., text-to-speech)
 
-Target Audience:
+**Target Audience:**
 
 •	Students (K-12, higher education, lifelong learners)
 •	Teachers and educators
@@ -58,8 +58,8 @@ Target Audience:
 •	Researchers and academics
 •	Parents and guardians
 
-Educational websites cater to various learning styles, needs, and goals, including:
-
+**Educational websites cater to various learning styles, needs, and goals, including:
+**
 •	Formal education (degree programs)
 •	Informal learning (personal interest)
 •	Professional development (certifications, training)
