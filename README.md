@@ -71,7 +71,7 @@ main page:
 
  
 
-Destination Page:
+Information Page:
 ![Screenshot 2024-11-08 at 11 26 55 AM](https://github.com/user-attachments/assets/12dc2cea-0b6f-40a5-b053-94d0b124dd0d)
 
  
