@@ -1,4 +1,4 @@
-#Educational Website
+# Educational Website
 
 This educational website provides online resources, information, and interactive tools to facilitate learning, teaching, and academic development. Key features and functionalities include:
 
